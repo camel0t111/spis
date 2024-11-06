@@ -1,0 +1,130 @@
+body {
+	font-family: montserrat;
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	display: block;
+	padding: 50px 0px;
+	background-color: #f3eddf;
+}
+
+.fruits {
+	margin: auto;
+	background-color: #ed9eae;
+	color: #fff;
+	padding: 20px;
+	font-size: 20px;
+	height: 270px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 600px;
+	margin-bottom: 50px;
+}
+
+.fruits div {
+	background-color: #c66376;
+	display: flex;
+}
+
+.fruits span {
+	background-color: #9e354a;
+	display: flex;
+  	justify-content: center;
+  	align-items: center;
+  	padding: 0px 20px;
+} 
+
+.fruits p {
+	margin: 0;
+	width: 35px;
+	padding: 10px 0px;
+  	display: flex;
+  	justify-content: center;
+  	align-items: center;
+}
+
+.todolist {
+	margin: auto;
+	background-color: #f5f5f5;
+	width: 650px;
+	font-size: 15px;
+	padding: 15px 30px;
+}
+
+h1 {
+	margin: 0;
+	margin-bottom: 25px;
+}
+
+.todolist div {
+	font-size: 20px;
+}
+
+.done {
+	background-color: #e2e2e2;
+}
+
+.odd {
+	background-color: #a5ccda;
+}
+
+.even {
+	background-color: #add8e6;
+}
+
+mark {
+	background-color: transparent;
+	color: #8b0000;
+	font-size: 15px;
+	font-weight: 500;
+}
+
+.todolist div {
+	padding: 15px 45px;
+}
+
+.todolist img {
+	padding-right: 20px;
+}
+
+ol {
+	padding-left: 80px;
+}
+
+h3 {
+ 	margin: 0;
+}
+
+.tag {
+	margin: auto;
+	margin-top: 50px;
+	width: 1000px;
+	padding: 45px 30px;
+	background-color: #f5f5f5;
+	line-height: 1.4em;
+}
+
+.tag span {
+	color: gray;
+}
+
+.tag mark {
+	background-color: transparent;
+	color: #4135ab;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
